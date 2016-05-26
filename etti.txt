@@ -1,0 +1,29 @@
+total 4232
+drwx------    5 etti  staff      170  1 Oct 16:16 Applications
+drwx---rwx+  56 etti  staff     1904 22 Jan 09:38 Desktop
+drwx------+  35 etti  staff     1190 23 Jan 04:12 Documents
+drwx------+ 392 etti  staff    13328 24 Jan 11:06 Downloads
+drwxr-xr-x    6 etti  staff      204 30 Sep 23:40 IonicBluemixDemo
+drwx------@  62 etti  staff     2108 20 Jan 11:06 Library
+drwx------+   5 etti  staff      170 25 Oct 08:56 Movies
+drwx------+   6 etti  staff      204 19 Oct 13:41 Music
+drwx------@  52 etti  staff     1768 11 Dec 11:53 Pictures
+drwxr-xr-x+   5 etti  staff      170 12 Sep 15:54 Public
+drwxr-xr-x    4 etti  staff      136  9 Nov 15:47 SasUniversityEdition
+drwxr-xr-x    9 etti  staff      306 18 Sep 18:20 TMHTCE
+-rw-r--r--    1 etti  staff     3005 19 Jan 07:31 Untitled.ipynb
+drwxr-xr-x    5 etti  staff      170 19 Jan 08:21 VirtualBox VMs
+-rw-r--r--    1 etti  staff        0 17 Sep 19:07 as1_out.txt
+drwxr-xr-x   11 etti  staff      374  1 Dec 01:50 cloudskul
+-rw-r--r--@   1 etti  staff    46580 19 Jan 02:50 clusteredProducts.csv
+drwxr-xr-x    3 etti  staff      102 24 Jan 00:01 developer
+drwxr-xr-x    5 etti  staff      170  7 Nov 17:10 eclipse
+-rw-r--r--    1 etti  staff    13399 19 Jan 17:24 etti.txt
+-rw-------    1 etti  staff     1523 14 Jan 02:43 hello.txt.save
+-rw-r--r--    1 etti  staff  2093056 14 Jan 02:33 less
+drwxr-xr-x    4 etti  staff      136  1 Dec 01:48 node_modules
+drwxr-xr-x  128 etti  staff     4352  1 Dec 01:49 putty
+drwxr-xr-x    8 etti  staff      272  1 Dec 01:43 self-care
+drwxr-xr-x    5 etti  staff      170  1 Dec 02:41 self-care2
+drwxr-xr-x   12 etti  staff      408 22 Dec 13:28 serverpilot
+drwxr-xr-x   11 etti  staff      374 14 Dec 00:54 serverpilot-dev
